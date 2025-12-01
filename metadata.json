@@ -2,13 +2,7 @@
   "name": "PATO",
   "symbol": "PATO",
   "description": "PATO es un token digital con propósito social. Su misión es financiar oportunidades educativas en informática, ciencias, artes y cultura alrededor del mundo, con especial foco en sectores vulnerables. Creado para empoderar a las nuevas generaciones y construir un futuro brillante.",
-  "image": "https://raw.githubusercontent.com/javaicanbillionare/Pato-Token/main/logo-pato.png",
-  "extensions": {
-    "website": "https://pato.global",
-    "twitter": "https://twitter.com/pato_token",
-    "instagram": "https://instagram.com/pato.token",
-    "project": "Moneda Digital PATO"
-  },
+  "image": "https://raw.githubusercontent.com/javaicanbillionare/PATO-TOKEN/main/logo.png",
   "seller_fee_basis_points": 0,
   "attributes": [
     { "trait_type": "Tipo", "value": "Token SPL" },
@@ -17,18 +11,22 @@
     { "trait_type": "Naturaleza", "value": "Utilidad Social" }
   ],
   "properties": {
+    "category": "token",
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/javaicanbillionare/Pato-Token/main/logo-pato.png",
+        "uri": "https://raw.githubusercontent.com/javaicanbillionare/PATO-TOKEN/main/logo.png",
         "type": "image/png"
       }
     ],
-    "category": "token",
     "creators": [
       {
         "address": "TU_WALLET_AQUI",
         "share": 100
       }
     ]
+  },
+  "extensions": {
+    "website": "https://pato.global",
+    "project": "Moneda Digital PATO"
   }
 }
