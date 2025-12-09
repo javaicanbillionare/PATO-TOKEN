@@ -1,2 +1,2 @@
 # PATO-TOKEN
-Token oficial del proyecto PATO ($PATO), una moneda digital con propósito educativo, creada para financiar oportunidades de aprendizaje en informática, ciancias, arte y cultura a nivel global.
+PATO es el token digital de utilidad del ecosistema PATO, diseñado para financiar programas educativos en tecnología, ciencias y arte alrededor del mundo. Su modelo se basa en una estructura sostenible impulsada por blockchain, combinando impacto social real con un sistema económico transparente y escalable.
